@@ -1,25 +1,23 @@
 # Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, C, C++, Java, R, Unix, Extract Transform Load (ETL) Pipelines, Data Modeling, PySpark, MapReduce, PyTorch, Data Mining, Data Engineering, Data Analytics, Query Writing, Apache Spark, Hadoop, Azure, Google Cloud, MongoDB, Tableau, PostgreSQL, Machine Learning, Tensorflow, Kafka, Docker
+#### Technical Skills: Python, SQL, AWS, C, C++, Java, Bash, Extract Transform Load (ETL) Pipelines, Data Modeling, PySpark, MapReduce, PyTorch, Data Mining, Data Engineering, Data Analytics, Query Writing, Apache Spark, Hadoop, Azure, Google Cloud, PostgreSQL
+#### Languages: Fluent English, Intermediate Spanish
 
 ## Education			        		
-- B.S., Computer Science | Florida Polytechnic University (_May 2025_)
+- B.S., Computer Science | Florida Polytechnic University (_May 2026_)
 
 ## Experience
-**Student Worker - IT @ Florida Polytechnic University (_May 2023 - Present_)**
+**Student Lead - IT @ Florida Polytechnic University (_January 2023 - Present_)**
 - Worked with computer-based information systems. Both network and software applications and computer hardware. As well as customer service for resolving any issues that may occur on a day-to-day basis. Led the upgrade and installation of computer labs, as well as configuring, imaging, and installing advanced software on
 relevant hardware.
 
-
-**Spacebook Team Lead @ Saddle Creek Logistics (_August 2024 - Present_)**
-- Oversaw and led the Spacebook development team, overseeing software architecture, providing strategic data-supported direction and leadership to drive innovative software solutions, and assisted in the creation and implementation of the back end database.
-
 ## Projects
-### Mushroom Classification and Prediction
-Used various machine learning techniques in python to accurately classify and predict whether a mushroom was edible or poisonous. Dataset sourced from the University of California Irving Machine Learning Repository.
-
-### Student Academic Success Prediction
-Used a PostgreSQL database in conjunction with machine learning techniques to accurately predict academic student success with real time manipulation of data. Dataset souorced from the University of California Irving Machine Learning Repository.
-
-### Website Monitoring Software
-Created software to monitor webservers and email the user when the website experienced outages with a description of the errors type.
+**Connect-4 Classification and Prediction
+- Used various machine learning techniques to Accurately classify and predict whether the current game state of a match of connect-4 would lead to a victory. Dataset sourced from openml.org
+ 
+**Website Creation
+- Used Python Django Web Framework to build a social media website used by coin collectors to collect and show off their collections with other collectors. The website included user authentication, error reporting, database modeling, and JavaScript scripting.
+ 
+**Audio Analyzing Application
+- Built an application in Python using the Tkinter library for a Graphical User Interface (GUI.) The application took audio files as input, and output the raw audio data in the form of waveforms, reverb, etc.           
+ 
