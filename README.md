@@ -12,12 +12,12 @@
 relevant hardware.
 
 ## Projects
-**Connect-4 Classification and Prediction
+**Connect-4 Classification and Prediction**
 - Used various machine learning techniques to Accurately classify and predict whether the current game state of a match of connect-4 would lead to a victory. Dataset sourced from openml.org
  
-**Website Creation
+**Website Creation**
 - Used Python Django Web Framework to build a social media website used by coin collectors to collect and show off their collections with other collectors. The website included user authentication, error reporting, database modeling, and JavaScript scripting.
  
-**Audio Analyzing Application
+**Audio Analyzing Application**
 - Built an application in Python using the Tkinter library for a Graphical User Interface (GUI.) The application took audio files as input, and output the raw audio data in the form of waveforms, reverb, etc.           
  
