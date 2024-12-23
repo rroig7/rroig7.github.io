@@ -13,7 +13,7 @@ relevant hardware.
 
 ## Projects
 **Connect-4 Classification and Prediction**
-- Used various machine learning techniques to Accurately classify and predict whether the current game state of a match of connect-4 would lead to a victory. Dataset sourced from openml.org
+- Used various machine learning techniques to accurately classify and predict whether the current game state of a match of connect-4 would lead to a victory. Dataset sourced from openml.org
  
 **Website Creation**
 - Used Python Django Web Framework to build a social media website used by coin collectors to collect and show off their collections with other collectors. The website included user authentication, error reporting, database modeling, and JavaScript scripting.
