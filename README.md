@@ -21,3 +21,5 @@ relevant hardware.
 **Audio Analyzing Application**
 - Built an application in Python using the Tkinter library for a Graphical User Interface (GUI.) The application took audio files as input, and output the raw audio data in the form of waveforms, reverb, etc.           
  
+**Ubuntu Server Home Lab**
+- Configured and deployed a Home Lab to act as an accessible Linux server for self-hosting various applications through docker such as ProxMox, Nginx Proxy Manager, and WireGuard VPN. Gained hands-on experience with Linux terminal operations and shell scripting for automation and system management.
